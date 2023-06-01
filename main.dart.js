@@ -93153,24 +93153,26 @@ A.alq.prototype={
 $0(){A.dc(this.a,!1).iG(null)},
 $S:0}
 A.alr.prototype={
-$2(a,b){var s,r,q,p,o,n,m,l,k,j=null,i=b.b
-if(i!=null){s=t.w
-r=A.ak(a,j,s).w
-q=A.ak(a,j,s).w
-p=A.ak(a,j,s).w
-o=A.ak(a,j,s).w
-n=A.ak(a,j,s).w
-o=A.OT(j,new A.eg(B.E,j,j,A.ae(A.k2("assets/images/background.jpg",B.d_,j,j),n.a.b*0.3,o.a.a),j),j,j,0,j,0,j)
-n=A.ak(a,j,s).w
-m=A.ak(a,j,s).w
+$2(a,b){var s,r,q,p,o,n,m,l,k,j,i,h=null,g=b.b
+if(g!=null){s=t.w
+r=A.ak(a,h,s).w
+q=A.ak(a,h,s).w
+p=A.ak(a,h,s).w
+o=A.ak(a,h,s).w
+n=A.ak(a,h,s).w
+o=A.OT(h,new A.eg(B.E,h,h,A.ae(A.k2("assets/images/background.jpg",B.d_,h,h),n.a.b*0.3,o.a.a),h),h,h,0,h,0,h)
+n=A.ak(a,h,s).w
+m=A.ak(a,h,s).w
 l=A.db(30)
-k=t.p
-k=A.a([A.ae(A.vH(B.el,A.a([o,A.OT(j,new A.eg(B.FZ,j,j,A.c3(j,A.eB(A.ae(new A.KF(A.db(30),A.k2("assets/images/logo.png",B.d_,j,j),j),120,120),j,j),B.r,j,j,new A.ct(B.DT,j,j,l,B.JY,j,B.af),j,j,j,B.Fv,j,j,j),j),140,j,(n.a.a-180)/2,j,m.a.b*0.2,140)],k),B.a9,B.e9),p.a.b*0.4,j),B.bR,A.ae(A.a7(i.b,j,j,j,A.a8(B.m,24,B.o,j),B.aG,j),j,j),B.bR,A.ae(A.a7("",j,j,j,A.a8(B.m,18,j,j),B.aG,j),j,j),B.e8],k)
-p=i.c
-if(p.length===0){o=A.ak(a,j,s).w
-k.push(new A.bi(B.as,A.ae(A.a7("N\xe3o h\xe1 vagas cadastradas!",j,j,j,A.a8(B.m,18,B.o,j),B.aG,j),j,o.a.a),j))}if(p.length!==0){s=A.ak(a,j,s).w
-k.push(new A.bi(B.as,A.ae(A.a7("Vagas dispon\xedveis",j,j,j,A.a8(B.m,18,B.o,j),B.B,j),j,s.a.a),j))}k.push(A.ae(A.aCN(B.PQ,new A.alp(i),p.length,B.dv,B.aQ,!1),250,j))
-return A.c3(j,A.ku(A.ae(A.aF(k,B.n,B.q,B.l,j,j,B.j),q.a.b,j),j,j,B.dv),B.r,j,new A.ax(0,1/0,0,r.a.b),j,j,j,j,j,j,j,j)}else return B.et},
+k=A.db(30)
+j=g.b
+i=t.p
+i=A.a([A.ae(A.vH(B.el,A.a([o,A.OT(h,new A.eg(B.FZ,h,h,A.c3(h,A.eB(A.ae(new A.KF(k,A.k2(j==="COMPES"?"assets/images/COMPES.png":"assets/images/LK.png",B.d_,h,h),h),120,120),h,h),B.r,h,h,new A.ct(B.DT,h,h,l,B.JY,h,B.af),h,h,h,B.Fv,h,h,h),h),140,h,(n.a.a-180)/2,h,m.a.b*0.2,140)],i),B.a9,B.e9),p.a.b*0.4,h),B.bR,A.ae(A.a7(j,h,h,h,A.a8(B.m,24,B.o,h),B.aG,h),h,h),B.bR,A.ae(A.a7("",h,h,h,A.a8(B.m,18,h,h),B.aG,h),h,h),B.e8],i)
+p=g.c
+if(p.length===0){o=A.ak(a,h,s).w
+i.push(new A.bi(B.as,A.ae(A.a7("N\xe3o h\xe1 vagas cadastradas!",h,h,h,A.a8(B.m,18,B.o,h),B.aG,h),h,o.a.a),h))}if(p.length!==0){s=A.ak(a,h,s).w
+i.push(new A.bi(B.as,A.ae(A.a7("Vagas dispon\xedveis",h,h,h,A.a8(B.m,18,B.o,h),B.B,h),h,s.a.a),h))}i.push(A.ae(A.aCN(B.PQ,new A.alp(g),p.length,B.dv,B.aQ,!1),250,h))
+return A.c3(h,A.ku(A.ae(A.aF(i,B.n,B.q,B.l,h,h,B.j),q.a.b,h),h,h,B.dv),B.r,h,new A.ax(0,1/0,0,r.a.b),h,h,h,h,h,h,h,h)}else return B.et},
 $S:171}
 A.alp.prototype={
 $2(a,b){var s="O objetivo final do cargo \xe9 efetuar compras para cal\xe7ados com o menor custo poss\xedvel, sem perder a qualidade dos produtos e oferecer servi\xe7os que possibilite aos segurados o atendimento no menor tempo poss\xedvel.",r=this.a,q=r.b,p=q==="COMPES",o=p?"AUXILIAR DE ENFERMAGEM":"AUXILIAR ADMINISTRATIVO"
@@ -93535,27 +93537,27 @@ case 3:p=b.b
 if(p!==200)if(p===403){$.aHZ=!1
 q.agT()}return A.T(null,r)}})
 return A.U($async$u0,r)},
-E(a){var s,r,q,p,o,n,m,l=this,k=null,j=t.w,i=A.ak(a,k,j).w.a.a,h=A.rT(k,B.v,k,A.k0(k,k,B.om,k,new A.atI(a),k,k,k,k),k),g=A.ak(a,k,j).w,f=A.ak(a,k,j).w,e=i>800
-j=e?A.ak(a,k,j).w.a.b*0.4:A.ak(a,k,j).w.a.b*0.3
-s=e?B.eo:B.E
-r=e?B.X:B.hS
-q=e?150:120
-p=e?150:120
-o=e?100:80
-e=e?100:80
+E(a){var s,r,q,p,o,n,m,l,k=this,j=null,i=t.w,h=A.ak(a,j,i).w.a.a,g=A.rT(j,B.v,j,A.k0(j,j,B.om,j,new A.atI(a),j,j,j,j),j),f=A.ak(a,j,i).w,e=A.ak(a,j,i).w,d=h>800
+i=d?A.ak(a,j,i).w.a.b*0.4:A.ak(a,j,i).w.a.b*0.3
+s=d?B.eo:B.E
+r=d?B.X:B.hS
+q=d?150:120
+p=d?150:120
+o=d?100:80
+d=d?100:80
 n=A.db(30)
 m=A.db(30)
-q=A.ae(A.c3(k,A.ym(A.c3(k,A.k2("assets/images/COMPES.png",B.fW,k,k),B.r,k,k,new A.ct(k,k,k,m,k,k,B.af),k,k,k,k,k,k,k),B.a9,k,k,k,B.Ok,k),B.r,k,k,new A.ct(B.h,k,k,n,k,k,B.af),k,e,k,k,k,k,o),p,q)
-p=l.a.f
-p.toString
-o=t.p
-f=A.c3(k,new A.bi(B.as,new A.eg(s,k,k,A.aF(A.a([q,A.a7(p,k,k,k,A.a8(B.h,18,B.o,k),k,k),B.aq,A.ia(B.R,30,50,!1,new A.atJ(l,a),"Candidatar-se",B.h,18,210)],o),B.n,r,B.l,k,k,B.j),k),k),B.r,k,k,B.BK,k,j,k,k,k,k,f.a.a)
-j=l.a.d
-j.toString
-j=A.ae(A.a7(j,k,k,k,A.a8(B.m,24,B.o,k),B.B,k),k,i)
-r=l.a.r
+l=k.a.f
+d=A.ae(A.c3(j,A.ym(A.c3(j,A.k2(l==="COMPES"?"assets/images/COMPES.png":"assets/images/LK.png",B.fW,j,j),B.r,j,j,new A.ct(j,j,j,m,j,j,B.af),j,j,j,j,j,j,j),B.a9,j,j,j,B.Ok,j),B.r,j,j,new A.ct(B.h,j,j,n,j,j,B.af),j,d,j,j,j,j,o),p,q)
+l.toString
+q=t.p
+e=A.c3(j,new A.bi(B.as,new A.eg(s,j,j,A.aF(A.a([d,A.a7(l,j,j,j,A.a8(B.h,18,B.o,j),j,j),B.aq,A.ia(B.R,30,50,!1,new A.atJ(k,a),"Candidatar-se",B.h,18,210)],q),B.n,r,B.l,j,j,B.j),j),j),B.r,j,j,B.BK,j,i,j,j,j,j,e.a.a)
+i=k.a.d
+i.toString
+i=A.ae(A.a7(i,j,j,j,A.a8(B.m,24,B.o,j),B.B,j),j,h)
+r=k.a.r
 r.toString
-return A.qD(h,A.ae(A.ku(A.ae(A.aF(A.a([f,new A.bi(B.as,j,k),new A.bi(B.as,A.ae(A.a7(r,k,k,k,A.a8(B.m,20,k,k),B.B,k),k,i),k)],o),B.n,B.dj,B.l,k,k,B.j),k,k),k,k,B.dv),g.a.b,k),k,!0,k,k,k,k)}}
+return A.qD(g,A.ae(A.ku(A.ae(A.aF(A.a([e,new A.bi(B.as,i,j),new A.bi(B.as,A.ae(A.a7(r,j,j,j,A.a8(B.m,20,j,j),B.B,j),j,h),j)],q),B.n,B.dj,B.l,j,j,B.j),j,j),j,j,B.dv),f.a.b,j),j,!0,j,j,j,j)}}
 A.atG.prototype={
 $1(a){var s=null
 return A.ax_(s,B.X,B.E,s,A.ku(A.aF(A.a([A.Np("assets/anim/error.json",s,!1,100),A.a7("Voc\xea j\xe1 est\xe1 cadastrado, aguarde a finaliza\xe7\xe3o do processo!",s,s,s,A.a8(s,15,B.o,s),B.aG,s),B.aq,A.ia(B.R,30,50,!1,new A.atF(a),"Fechar",B.h,16,200)],t.p),B.n,B.q,B.l,s,s,B.j),s,s,s),s)},
