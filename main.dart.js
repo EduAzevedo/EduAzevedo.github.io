@@ -93669,8 +93669,8 @@ $S:3}
 A.p4.prototype={
 a6(){return new A.Ta(B.k)}}
 A.Ta.prototype={
-E(a){var s=this,r=null,q=s.d?1.01:1,p=A.db(30)
-return A.hF(r,A.fg(A.DX(B.E,A.ae(A.ym(A.aF(A.a([A.ae(A.k2("assets/images/COMPES.png",B.d_,r,r),90,180),A.eB(A.a7(s.a.d,r,r,r,A.a8(B.m,15,B.o,r),B.aG,r),r,r),B.FK],t.p),B.n,B.q,B.l,r,r,B.j),B.a9,r,5,r,new A.iQ(p,B.y),B.h),180,180),r,q),B.cX,r,new A.alm(s),new A.aln(s),r),B.ac,!1,r,r,r,r,r,r,r,r,r,r,r,r,r,r,new A.alo(s,a),r,r,r,r,r,r)}}
+E(a){var s=this,r=null,q=s.d?1.01:1,p=A.db(30),o=s.a.d
+return A.hF(r,A.fg(A.DX(B.E,A.ae(A.ym(A.aF(A.a([A.ae(A.k2(o==="COMPES"?"assets/images/COMPES.png":"assets/images/LK.png",B.d_,r,r),90,180),A.eB(A.a7(o,r,r,r,A.a8(B.m,15,B.o,r),B.aG,r),r,r),B.FK],t.p),B.n,B.q,B.l,r,r,B.j),B.a9,r,5,r,new A.iQ(p,B.y),B.h),180,180),r,q),B.cX,r,new A.alm(s),new A.aln(s),r),B.ac,!1,r,r,r,r,r,r,r,r,r,r,r,r,r,r,new A.alo(s,a),r,r,r,r,r,r)}}
 A.alo.prototype={
 $0(){var s=A.AM(new A.alj(this.a),null,t.z)
 A.dc(this.b,!1).jk(s)},
